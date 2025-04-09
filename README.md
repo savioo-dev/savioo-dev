@@ -28,6 +28,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonysavioo/)
 
 
-### 🐍 Atividade recente no GitHub
-
 ![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
