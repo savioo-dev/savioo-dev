@@ -6,7 +6,7 @@
 🎯 Buscando crescer como desenvolvedor Front-End e criar experiências web incríveis  
 🤝 Sempre aberto a colaborações e novos desafios no mundo da programação  
 
-👤 Pronouns: ele/dele
+👤 Ele/Dele
 
 
 ---
