@@ -30,4 +30,4 @@
 
 ### 🐍 Atividade recente no GitHub
 
-![snake gif](https://github.com/savioo-dev/savioo-dev/blob/main/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
