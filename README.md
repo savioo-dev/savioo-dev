@@ -8,9 +8,7 @@
 
 👤 Ele/Dele
 
-
 ---
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Antony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,11 +19,9 @@
 
 ---
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-santos-26bb4a268/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anntonysanntos21@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savioodev@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@savioo.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonysavioo/)
-
 
 ![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
