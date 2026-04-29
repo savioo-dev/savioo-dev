@@ -10,6 +10,8 @@ Sou estudante de Tecnologia com foco na área de dados, buscando transformar inf
 👤 Ele/Dele
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="SQL" height="40" width="40" src="https://img.icons8.com/fluency/48/sql.png">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
