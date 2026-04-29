@@ -1,10 +1,11 @@
 ## 👋 Opa, eu sou o Antony!
 
-🎓 Estudante de Tecnologia apaixonado por desenvolvimento web  
-💻 Explorando o universo da programação com **Python** e **Front-End (HTML, CSS e JavaScript)**  
-🚀 Dedicado a criar projetos práticos e fortalecer minha lógica de programação  
-🎯 Buscando crescer como desenvolvedor Front-End e criar experiências web incríveis  
-🤝 Sempre aberto a colaborações e novos desafios no mundo da programação  
+👨‍💻 Estudante de Tecnologia com foco em Análise de Dados e Desenvolvimento.  
+📊 Desenvolvendo habilidades em Power BI, SQL e lógica de programação.  
+🚀 Em constante evolução, desenvolvendo projetos práticos para análise de dados e criação de dashboards.
+
+## 💡 Sobre mim
+Sou estudante de Tecnologia com foco na área de dados, buscando transformar informações em insights que apoiem a tomada de decisão. Atualmente, estou desenvolvendo habilidades em ferramentas de análise de dados e aplicando esses conhecimentos em projetos práticos.
 
 👤 Ele/Dele
 
@@ -21,7 +22,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-santos-26bb4a268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savioodev@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@savioo.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonysavioo/)
 
 ![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
