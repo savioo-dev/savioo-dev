@@ -8,9 +8,6 @@
 
 ## 🚀 Tecnologias em aprendizado
 
-## 🚀 Tecnologias em aprendizado
-## 🚀 Tecnologias em aprendizado
-
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
