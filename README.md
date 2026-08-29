@@ -1,15 +1,10 @@
-## 👋 Opa, eu sou o Antony!
+# 👋 Olá, eu sou o Antony!
 
-💻 Desenvolvedor Front-End em formação, focado na criação de interfaces modernas, responsivas e intuitivas.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-🚀 Atualmente estudando e praticando HTML, CSS e JavaScript.
+💻 Atualmente desenvolvendo projetos práticos para aplicar e consolidar conhecimentos em tecnologia.
 
-⚡ Construo projetos práticos para evoluir minhas habilidades e consolidar conhecimento em desenvolvimento web.
-
-💡 Sobre mim
-
-Sou estudante de tecnologia apaixonado por desenvolvimento web e criação de interfaces.  
-Tenho foco em Front-End e estou em constante evolução através de projetos práticos, sempre buscando melhorar a experiência do usuário e a qualidade do código.
+🚀 Em constante aprendizado, buscando evoluir através dos estudos e da prática.
 
 
 👤 Ele/Dele
