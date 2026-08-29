@@ -2,23 +2,35 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-💻 Atualmente desenvolvendo projetos práticos para aplicar e consolidar conhecimentos em tecnologia.
+💻 Desenvolvendo projetos práticos para aplicar e consolidar conhecimentos em tecnologia.
 
 🚀 Em constante aprendizado, buscando evoluir através dos estudos e da prática.
 
+## 🚀 Tecnologias em aprendizado
 
-👤 Ele/Dele
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+    width="40"
+/>
 
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+    width="40"
+/>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
+    width="40"
+/>
 
+## 📫 Contato
 
+<a href="https://www.linkedin.com/in/antonysantosdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/antony-santos-26bb4a268/](https://www.linkedin.com/in/antonysantosdev/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anntonysanntos21@gmail.com)
+<a href="mailto:anntonysanntos21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
