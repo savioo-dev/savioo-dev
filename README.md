@@ -18,7 +18,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-santos-26bb4a268/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savioodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/antony-santos-26bb4a268/](https://www.linkedin.com/in/antonysantosdev/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anntonysanntos21@gmail.com)
 
 ![snake gif](https://github.com/savioo-dev/savioo-dev/blob/output/github-contribution-grid-snake.svg)
